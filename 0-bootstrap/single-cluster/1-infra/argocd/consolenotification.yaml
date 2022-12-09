@@ -32,4 +32,4 @@ spec:
           ## The location of the banner. Options: BannerTop, BannerBottom, BannerTopBottom
           location: BannerTop
           ## The text that should be displayed in the banner. This value is required for the banner to be created
-          text: "US Financial Market Cluster"
+          text: "ORG 101 Pre existing US Financial Market Cluster"
