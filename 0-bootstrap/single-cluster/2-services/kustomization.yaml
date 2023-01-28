@@ -1,6 +1,6 @@
 resources:
 # IBM Software
-
+#ardocd admin XU1QEfO8A7ylz4coDRZqtsvwV2IWhCna
 ## Cloud Pak for Integration
 #- argocd/operators/ibm-ace-operator.yaml
 #- argocd/operators/ibm-apic-operator.yaml
@@ -93,7 +93,7 @@ resources:
 - argocd/instances/ibm-pem-db2.yaml
 - argocd/instances/ibm-pem-db2test.yaml
 - argocd/instances/ibm-pem-setup.yaml
-#- argocd/instances/ibm-pem.yaml
+- argocd/instances/ibm-pem.yaml
 
 # SCCM
 #- argocd/instances/ibm-sccm-db2.yaml
